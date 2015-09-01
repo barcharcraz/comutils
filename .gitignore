@@ -1,0 +1,7 @@
+nimcache
+[Bb]in
+*.swp
+*.obj
+*.ilk
+*.pdb
+*.exe
